@@ -1,0 +1,15 @@
+@media (max-width:768px) {
+    p{
+        font-size: 40px;
+        background-color: lightpink;
+    }
+}
+@media (min-width:768px){
+    background-color: y;
+}
+    
+}
+nav ul{
+    display:flex;
+    justify-content: space-around;
+}
